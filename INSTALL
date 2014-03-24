@@ -1,0 +1,9 @@
+Building SkateCoin
+
+See doc/readme-qt.rst for instructions on building skatecoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SkateCoin.
+
+See doc/build-*.txt for instructions on building skatecoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of SkateCoin.
