@@ -2012,7 +2012,7 @@ bool LoadBlockIndex(bool fAllowNew)
     
         
         // Genesis block
-        const char* pszTimestamp = "SKATE AND DESTROY!";
+        const char* pszTimestamp = "Sk8Coin - Simple is better.";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
